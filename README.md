@@ -23,7 +23,7 @@ To run the game you will need:
    ```
    
 2. **Compile the game**:
-   Use the provided `Makefile` to compile the game:
+   Use the provided `Makefile` to compile the game via the command:
    ```bash
    make
    ```
@@ -31,7 +31,7 @@ To run the game you will need:
 3. **Run the game**:
    To run the game with any maps downloaded or created, use the following command:
    ```bash
- ./main maps/[name of map file].json
+   /main maps/[name of map file].json
    ```
 
 ---
