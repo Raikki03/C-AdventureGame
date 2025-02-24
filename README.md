@@ -20,7 +20,8 @@ To run the game you will need:
    ```bash
    git clone https://github.com/your-username/cpp-adventure-game.git
    cd cpp-adventure-game
-
+   ```
+   
 2. **Compile the game**:
    Use the provided `Makefile` to compile the game:
    ```bash
